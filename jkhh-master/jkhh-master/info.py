@@ -65,3 +65,4 @@ LOG_STR += (f"MAX_LIST_ELM Found, long list will be shortened to first {MAX_LIST
 LOG_STR += f"Your current IMDB template is {IMDB_TEMPLATE}"
 
 SHORTENER_API = environ.get("SHORTENER_API", "dXlx5jBbbdTGCXCNw4GKaIVWpgx1")
+CHANNEL_LINK = environ.get("CHANNEL_LINK", "https://t.me/RolexMoviesOX")
