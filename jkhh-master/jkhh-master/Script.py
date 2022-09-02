@@ -12,7 +12,7 @@ class script(object):
 📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/TrockersLinks><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0 [ ʙᴇᴛᴀ ]\n</b></i>"""
     SOURCE_TXT = """<b>FOR PAID PROMOTION:</b>
-
+    SOURCE_TXT
 - <b>WE HAVE MANY PLANS FOR DETAILS CONTACT ME @HAASHIM_999<b>
 
 - <b>LOW PRICE ONLY🥵<b>
